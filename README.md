@@ -1,4 +1,4 @@
-## KUL_projects
+## KU Leuven Projects
 
 _Some of the projects done during my time studying the Master of AI at KU Leuven (23-24)_
 
