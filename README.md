@@ -21,7 +21,7 @@ For each topic you can find the relevant code and report chapter.
 - SIMD.cpp
 - report_distributed.pdf (chapter 1)
 
-**Temporal Big Data Analysis:**
+**Spark Temporal Big Data Analysis:**
 - ShotDistribution.java
 - FastestPlayers.java
 - DistanceTravelled.java
